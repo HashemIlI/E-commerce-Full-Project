@@ -99,7 +99,7 @@ jupyter notebook
 **Ahmed Fouad Hashem**  
 Data Analyst & Applied AI Specialist  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/hashemili)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hashemili)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/HashemlII)
 
 ---
